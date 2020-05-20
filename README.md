@@ -1,6 +1,6 @@
 
 
-## REAL COMMODORE 64 (Virtually)
+## REAL COMMODORE 64 (Virtually) - Oculus Go, Oculus Quest, Gear VR, (and possibly DayDream and cardboard? requires 3DoF controller)
 
 ### Install
 
