@@ -1,6 +1,6 @@
 
 
-## C64 Emulator Preview (Oculus Go)
+## REAL COMMODORE 64 (Virtually)
 
 ### Install
 
@@ -9,7 +9,7 @@ See _Releases_ for APK Download.
 * You need `adb` (from Android platform tools)
 * You need _USB Debugging_ & _Unknown Sources_ turned on.
 
-`adb install vrvice.apk`
+`adb install RealCommodore64_1.1.apk`
 
 
 ### Features
@@ -37,7 +37,8 @@ To switch joystick ports click on the [INST DEL] button (located above the RESTO
 ### ONSCREEN VICE KEYBOARD:
 Click on the [RESTORE] button to bring up the VICE onscreen keyboard, however it is mostly useless for typing -most of the mappings are off. In order to click any buttons on the virtual keyboard you have to toggle on/off the onscreen mouse by hitting the BACK button on your controller, (or SELECT on the gamepad). It starts *far* OFFSCREEN past the lower RIGHT-HAND corner.  You have to use the DPAD on the gamepad to move the mouse.  Once you enabled it you have to move the mouse diagonally into the upper left direction of the screen until it becomes visible.  This is sometimes hit or miss, but is almost never needed unless you want to change system settings in the GUI (onscreen keyboard –> GUI). If you click on GUI, you MUST use the mouse to click on RESUME/RESTART/QUIT to get back (you can use D81 files, named as .d64, if you switch the drive type to 1581, but it defaults back to 1542 upon restarting). 
 
-
+### Download here:
+https://github.com/petermg/machineroom/releases
 
 ![Screenshot](https://github.com/petermg/machineroom/blob/master/screen03.jpg?raw=true "MODDED RELEASE-May 2020")
 ![Screenshot](https://github.com/petermg/machineroom/blob/master/screen04.jpg?raw=true "MODDED RELEASE-May 2020")
