@@ -23,5 +23,5 @@ See _Releases_ for APK Download.
 
 
 ![Screenshot](/screenshot.jpg?raw=true "Optional Title")
-![Screenshot](/com.C64VR.OPENPC-20200516-142425.mp4_snapshot_04.30_[2020.05.19_16.46.17]?raw=true "Optional Title")
+
 
