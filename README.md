@@ -22,6 +22,8 @@ See _Releases_ for APK Download.
 * Connect a real keyboard to type real text, or a gamepad to play games
 
 
-![Screenshot](/screenshot.jpg?raw=true "Optional Title")
+![Screenshot](/screenshot03.jpg?raw=true "MODDED RELEASE-May 2020")
+![Screenshot](/screenshot04.jpg?raw=true "MODDED RELEASE-May 2020")
+![Screenshot](/screenshot.jpg?raw=true "ORIGINAL RELEASE-August 2018")
 
 
